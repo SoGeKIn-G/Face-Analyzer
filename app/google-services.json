@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "187231189857",
+    "project_id": "face-detection-b6e5f",
+    "storage_bucket": "face-detection-b6e5f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:187231189857:android:dd4b342bb626f90fa4e320",
+        "android_client_info": {
+          "package_name": "com.gauravbora.facedetector_mlkit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "187231189857-hubh2g8ssfegelonb4h22f2npmki5d9s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gauravbora.facedetector_mlkit",
+            "certificate_hash": "dc08d43200db692e2293a09c00c72bba62156e50"
+          }
+        },
+        {
+          "client_id": "187231189857-li67jg8q24ft97kg4r4mu1kb6ccfaufa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUmHYG0k0HxId4-QEDdMeujIULDZJMdwc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "187231189857-li67jg8q24ft97kg4r4mu1kb6ccfaufa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
